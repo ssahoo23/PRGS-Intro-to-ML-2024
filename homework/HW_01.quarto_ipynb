@@ -1,0 +1,50 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Homework 1\"\n",
+        "format: html\n",
+        "---\n",
+        "\n",
+        "\n",
+        "__Name:__ \\<your name here\\>\n",
+        "\n",
+        "\n",
+        "__Question 1:__ Use a programming language of your choice to save today's date to a variable.\n",
+        "Then, include the date in the text below the code block.\n"
+      ],
+      "id": "8da163aa"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "print(\"hello world\")"
+      ],
+      "id": "41b4d68d",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "Today's date is: `<your answer here>`."
+      ],
+      "id": "90ca4c29"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\ssahoo\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
